@@ -30,3 +30,5 @@ For a complete list of commands, visit http://webdriver.io/docs.html.
   2 passing (2s)
 
 ```
+
+Based on this article [http://code.tutsplus.com/tutorials/headless-functional-testing-with-selenium-and-phantomjs--net-30545]
