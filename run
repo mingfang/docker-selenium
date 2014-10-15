@@ -1,0 +1,1 @@
+docker run -p 4444:4444 -v /var/log:/var/log -d -t selenium

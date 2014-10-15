@@ -1,0 +1,1 @@
+docker run -p 4444:4444 -v `pwd`:/docker --rm -i -t selenium /bin/bash
